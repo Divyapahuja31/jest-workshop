@@ -43,7 +43,7 @@ Ensures that coupon codes are accepted regardless of letter casing (e.g., "save1
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? Yes (Verified locally with `npm test`, setup in `.github/workflows/ci.yml`)
-- GitHub Actions Run URL: (Please push to GitHub to generate this URL)
+- GitHub Actions Run URL: https://github.com/Divyapahuja31/jest-workshop/actions/runs/21825862580
 
 ---
 
